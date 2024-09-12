@@ -1,1 +1,1 @@
-console.log("Hello, brokentsz");
+console.log("Hello, brokentsz!");
