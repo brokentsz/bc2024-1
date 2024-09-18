@@ -1,1 +1,3 @@
-console.log("Hello, brokentsz");
+const githubUsername = 'brokentsz';
+
+console.log(`Hello, ${githubUsername}!`);
